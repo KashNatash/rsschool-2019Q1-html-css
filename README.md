@@ -1,1 +1,1 @@
-# rsschool-2019Q1-html-css
+Kashevskaya Natalya HTML CSS Basics: https://www.codecademy.com/users/KashNatash/achievements
